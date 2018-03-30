@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764550719434",
+    "firebase_url": "https://fir-test-b424a.firebaseio.com",
+    "project_id": "fir-test-b424a",
+    "storage_bucket": "fir-test-b424a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764550719434:android:897ac66b5d57dbfa",
+        "android_client_info": {
+          "package_name": "com.Saadat.FireBaseTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764550719434-d9boocqhl12eq9bdobsfbhr0krno2tdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCohQGz_mpBmFfXq94BZ4dRSOa9VHuNawQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
